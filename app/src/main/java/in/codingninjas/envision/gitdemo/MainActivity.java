@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Comment in my branch
 
+        //Comment from cloned repo
 
         //Another comment in my branch
 
