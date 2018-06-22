@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Comment in my branch
 
+        //Comment in second branch
+
     }
 }
